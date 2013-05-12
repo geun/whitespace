@@ -8,7 +8,7 @@ Check out the theme in action [here](http://lucaslew.com).
 Install
 -------
     $ cd octopress
-    $ git clone git://github.com/geun/whitespace.git .themes/whitespace
+    $ git clone git@github.com:geun/whitespace.git .themes/whitespace
     $ rake install['whitespace']
     $ rake generate
 
